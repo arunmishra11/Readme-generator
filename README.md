@@ -12,6 +12,10 @@
 * [GitHub](#github)
 * [Questions](#questions)
 
+Recording link:
+
+https://drive.google.com/file/d/1OOmSlPg68k46CWp8u1uk0bStHPR8j425/view?usp=drive_link
+
 
 ## Description
 generating readme doc using node.js
