@@ -17,10 +17,10 @@
 generating readme doc using node.js
 
 ## Usage
-create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
+generating dynamic readme file using input
 
 ## Installation
-install inquirer, using  npm i inquirer@8.2.4.
+install inquirer, using npm i inquirer@8.2.4.
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT).
