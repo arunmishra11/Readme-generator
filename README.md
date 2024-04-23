@@ -39,3 +39,13 @@ https://github.com/arunmishra11
 
 ## Questions
 arunmishra305@gmail.com
+
+Screenshot:
+
+![image](https://github.com/arunmishra11/Readme-generator/assets/156019606/1754a89f-5da9-4922-8b85-7e72cfef1be7)
+
+Link to the video:
+
+https://drive.google.com/drive/folders/1Aml0TmCYfMi2n2O1VXPa8Q0q-pX2rX3s?usp=sharing
+
+
