@@ -1,4 +1,4 @@
-# ReadMe generator
+# Readme-Generator
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
@@ -12,28 +12,24 @@
 * [GitHub](#github)
 * [Questions](#questions)
 
-Recording link:
-
-https://drive.google.com/file/d/1OOmSlPg68k46CWp8u1uk0bStHPR8j425/view?usp=drive_link
-
 
 ## Description
-generating readme doc using node.js
+a README generator that runs from the command line. User is asked to enter a project title, description, installation instructions, usage information, contribution guidelines, test instructions, license information, GitHub username and email address.
 
 ## Usage
-generating dynamic readme file using input
+This application uses node to create a readme using the dynamic data
 
 ## Installation
-install inquirer, using npm i inquirer@8.2.4.
+install Node.js, npm and Inquirer.js before using this app. To check whether Node.js and npm are installed, open a terminal and run: node -v npm -v If Node and npm are already installed, the commands above should return version numbers. To install Inquirer navigate to the project's root directory and run: npm install
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT).
 
 ## Contributing
-UTA coding bootcamp
+UTA Bootcamps
 
 ## Tests
-run index.js using "node inde.js"
+use node to run index.js
 
 ## Collaborators
 Arun Mishra
